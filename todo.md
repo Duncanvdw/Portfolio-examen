@@ -11,7 +11,7 @@
  
 
 ## Opdrachten in het kort
-1. Opdracht 1: Plant werkzaamheden en bewaakt de voortgang
+### 1. Opdracht 1: Plant werkzaamheden en bewaakt de voortgang
  - De eisen en wensen zijn verwerkt in de user stories.
  - De user stories voldoen aan de criteria (wie, wat, waarom en realistisch).
  - Op basis van de user stories is een complete en realistische planning gemaakt
@@ -21,7 +21,7 @@
 
 ---
 
-2. Opdracht 2: Ontwerp software
+### 2. Opdracht 2: Ontwerp software
  - De user stories zijn vertaald naar een passend, eenduidig en volledig ontwerp (sluit aan op wensen en eisen)
  -  Er is gebruikgemaakt van relevante of toepasselijke schematechnieken (bijv. activiteitendiagram, klassendiagram, ERD, use case diagram).
  - De gemaakte keuzes in het ontwerp zijn onderbouwd met steekhoudende argumenten, waarbij rekening is gehouden met bijv. ethiek, privacy en security.
@@ -30,7 +30,7 @@
 
 ---
 
-3. Opdracht 3: Realiseert (onderdelen van) software
+### 3. Opdracht 3: Realiseert (onderdelen van) software
  - Er is voldoende inhoud van de user stories gerealiseerd binnen de gestelde/geplande tijd.
  - De opgeleverde functionaliteiten voldoen aan de eisen en wensen zoals omschreven in de betreffende user story.
  - De kwaliteit van de code is goed. Dit uit zich onder andere in: de structuur van de code, validatie, efficiëntie, foutafhandeling en terugkoppeling, security (veilig programmeren).
@@ -41,7 +41,7 @@
 
 ---
 
-4. Opdracht 4: Test software
+### 4. Opdracht 4: Test software
  - De testcases in het testplan sluiten aan op de user stories en bevatten alle scenario's.
  - De stappen, het gewenste resultaat en testdata zijn benoemd. Niet alleen het hoofdscenario, maar ook alternatieve scenario’s.
  - Het testrapport bevat de juiste resultaten en conclusies.
@@ -50,7 +50,7 @@
 
 ---
 
-5. Opdracht 5: Doet verbetervoorstellen voor de software
+### 5. Opdracht 5: Doet verbetervoorstellen voor de software
  - De juiste verbetervoorstellen zijn gedaan vanuit het testen.
  - De juiste verbetervoorstellen zijn gedaan vanuit de oplevering.
  - De juiste verbetervoorstellen zijn gedaan vanuit de reflectie.
@@ -59,7 +59,7 @@
 
 ---
 
-6. Opdracht 6: Voert overleg
+### 6. Opdracht 6: Voert overleg
  - De kandidaat neemt actief deel waarbij relevante onderwerpen worden ingebracht en de juiste vragen worden gesteld.
  - De kandidaat stemt regelmatig en tijdig af met projectteamleden en opdrachtgever over de voortgang en eventuele knelpunten.
  - De gemaakte afspraken zijn eenduidig vastgelegd.
@@ -69,7 +69,7 @@
 
 ---
 
-7. Opdracht 7: Presenteert het opgeleverde werk
+### 7. Opdracht 7: Presenteert het opgeleverde werk
  - De kandidaat presenteert een overtuigend, duidelijk, beargumenteerd verhaal, afgestemd op de doelgroep.
  -  De kandidaat stelt gerichte vragen om te controleren of de betrokkenen goed geïnformeerd zijn over het opgeleverde werk.
  - De kandidaat reageert adequaat op feedback.
@@ -78,7 +78,7 @@
 
 ---
 
-8. Opdracht 8: Reflecteert op het werk
+### 8. Opdracht 8: Reflecteert op het werk
  - De kandidaat benoemt zowel positieve als verbeterpunten van het proces van zowel eigen als teamprestaties.
  - De kandidaat reageert adequaat op de ontvangen feedback.
  - De kandidaat heeft een actieve houding tijdens reflectiemeetings
