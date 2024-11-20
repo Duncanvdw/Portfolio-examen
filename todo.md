@@ -5,8 +5,8 @@
 | .1     | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    |
 | .2     | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    |
 | .3     | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    |
-| .4     | Niet af    | X          | Niet af    | X          | X          | Niet af    | X          | X          |
-| .5     | X          | X          | Niet af    | X          | X          | X          | X          | X          |
+| .4     | Niet af    | N.V.T.     | Niet af    | N.V.T.     | N.V.T.     | Niet af    | N.V.T.     | N.V.T.     |
+| .5     | N.V.T.     | N.V.T.     | Niet af    | N.V.T.     | N.V.T.     | N.V.T.     | N.V.T.     | N.V.T.     |
 
 1. Opdracht 1: Plant werkzaamheden en bewaakt de voortgang
  - De eisen en wensen zijn verwerkt in de user stories.
