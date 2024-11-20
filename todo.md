@@ -1,5 +1,6 @@
 # Portfolio examen
 
+## Opdracht voortgang
 | Status | Opdracht 1 | Opdracht 2 | Opdracht 3 | Opdracht 4 | Opdracht 5 | Opdracht 6 | Opdracht 7 | Opdracht 8 |
 |--------|------------|------------|------------|------------|------------|------------|------------|------------|
 | .1     | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    |
@@ -7,7 +8,9 @@
 | .3     | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    | Niet af    |
 | .4     | Niet af    | N.V.T.     | Niet af    | N.V.T.     | N.V.T.     | Niet af    | N.V.T.     | N.V.T.     |
 | .5     | N.V.T.     | N.V.T.     | Niet af    | N.V.T.     | N.V.T.     | N.V.T.     | N.V.T.     | N.V.T.     |
+ 
 
+## Opdrachten in het kort
 1. Opdracht 1: Plant werkzaamheden en bewaakt de voortgang
  - De eisen en wensen zijn verwerkt in de user stories.
  - De user stories voldoen aan de criteria (wie, wat, waarom en realistisch).
