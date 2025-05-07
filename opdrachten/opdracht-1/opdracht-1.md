@@ -1,14 +1,12 @@
 # Opdracht 1: Plant de werkzaamheden en bewaakt de voortgang
 
----
-
 ## **Informatie over het project**
 
-**Naam opdrachtgever:** Erik  
+**Opdrachtgever:** Creative skills
 **Afdeling:** Web Development  
-**Project manager:** Erik  
-**Teamlead development:** Erik  
-**Teamleden development:** Duncan, Erik, Stefan, Stefan  
+**Project manager:** Erik
+**Teamlead development:** Erik
+**Teamleden development:** Duncan, Erik, Stefan, Stefan
 **Naam project:** Website Creative Skills
 
 ---
@@ -72,13 +70,13 @@ Aan het begin van het project is het scrumboard ingevuld met een initiële taakv
 
 ### **Sprint 1: Opzet en structuur**
 ![Scrumboard sprint 1](images/sprint-1.png)
-In de eerste sprint lag de focus op het opzetten van de projectstructuur, het inrichten van de ontwikkelomgeving, en het ontwikkelen van de eerste herbruikbare componenten. Ook is gestart met de implementatie van de basisstyling en mobile responsiveness.
+In de eerste sprint lag de focus op het opzetten van de projectstructuur, het inrichten van de ontwikkelomgeving, en het ontwikkelen van de eerste componenten. Ook is gestart met de implementatie van de basisstyling en mobile responsiveness.
 
 ---
 
 ### **Sprint 2: Front-end uitbreiding**
 ![Scrumboard sprint 2](images/sprint-2.png)
-Tijdens sprint 2 zijn we verder gegaan met het uitwerken van de visuele componenten. De layout is verfijnd volgens het ontwerp, en de mobiele versie van de site is verder geoptimaliseerd. Verschillende pagina's zijn uitgewerkt met behulp van de herbruikbare componenten uit sprint 1.
+Tijdens sprint 2 zijn we verder gegaan met het uitwerken van de visuele componenten. De layout is verfijnd volgens het ontwerp, en de mobiele versie van de site is verder geoptimaliseerd. Alle pagina's zijn uitgewerkt met behulp van de herbruikbare componenten uit sprint 1.
 
 ---
 
