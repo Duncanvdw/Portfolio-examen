@@ -84,7 +84,7 @@ Tijdens de ontwikkeling van de website zullen verschillende moderne webtechnolog
 ---
 
 ## **Planning van dit project**
-Tijdens het project is er gewerkt met de scrum-methode. In totaal zijn er vier sprints uitgevoerd, elk met een duur van twee weken. Voorafgaand aan het project hebben we een scrumboard opgesteld waarin de globale indeling en taken per sprint zijn bepaald. Hieronder worden de vier sprints kort toegelicht, inclusief een afsluitende terugblik met het eindbord.
+Tijdens het project is er gewerkt met de scrum-methode. In totaal zijn er vier sprints uitgevoerd, elk met een duur van twee weken. Voorafgaand aan het project hebben we een scrumboard opgesteld waarin de globale indeling en taken per sprint zijn bepaald. Hieronder worden de vier sprints kort toegelicht. In totaal zijn er iets minder dagen aan taken dan in de 8 weken die er zijn ingeplanned. Dit heb ik zo gedaan aangezien ik rekening heb gehouden met schoolprojecten die ik naast dit project moet doen of bijvoorbeeld een examen. Ook lijkt dit me slimmer aangezien ik met Laravel ga werken en daar heb ik nog helemaal geen ervaring in, dit geeft me tijd om dat goed te kunnen leren en begrijpen wat ik doe.
 
 | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
 | -------- | -------- | -------- | -------- |
@@ -95,34 +95,30 @@ Tijdens het project is er gewerkt met de scrum-methode. In totaal zijn er vier s
 
 ### **Vooraf – Scrumboard Planning**
 ![Scrumboard Vooraf](images/begin-scrumboard.png)
-Aan het begin van het project is het scrumboard ingevuld met een initiële taakverdeling over de sprints. Hierbij hebben we de belangrijkste features en prioriteiten verdeeld, met een logische volgorde van front-end naar back-end, en daarna contentbeheer.
+Aan het begin van het project is het scrumboard ingevuld met een initiële taakverdeling over de sprints. Hierbij hebben we de belangrijkste features en prioriteiten verdeeld, met een logische volgorde van front-end naar back-end.
 
 ---
 
 ### **Sprint 1: Opzet en structuur**
 ![Scrumboard sprint 1](images/sprint-1.png)
-In de eerste sprint lag de focus op het opzetten van de projectstructuur, het inrichten van de ontwikkelomgeving, en het ontwikkelen van de eerste componenten. Ook is gestart met de implementatie van de basisstyling en mobile responsiveness.
+In de eerste sprint lag de focus op het opzetten van de projectstructuur, het inrichten van de ontwikkelomgeving, en het ontwikkelen van de eerste componenten. Het maken van de user stories 1 & 2 (herbruikbare content & foto blokken) ging sneller dan verwacht en had ik binnen 2 dagen al af, het maken van user story 3 ging iets minder soepel en heb ik iets langer over gedaan dat duurde namelijk 4 dagen. US-04 is wel erg soepel verlopen en heb ik mooi binnen de tijd af kunnen maken. Helaas omdat US-03 iets langer duurde ben ik nog bezig met US-05
 
 ---
 
 ### **Sprint 2: Front-end uitbreiding**
 ![Scrumboard sprint 2](images/sprint-2.png)
-Tijdens sprint 2 zijn we verder gegaan met het uitwerken van de visuele componenten. De layout is verfijnd volgens het ontwerp, en de mobiele versie van de site is verder geoptimaliseerd. Alle pagina's zijn uitgewerkt met behulp van de herbruikbare componenten uit sprint 1.
+Tijdens sprint 2 zijn we verder gegaan met het uitwerken van de visuele componenten. De layout is verfijnd volgens het ontwerp, en de mobiele versie van de site is verder geoptimaliseerd. Alle pagina's zijn uitgewerkt met behulp van de herbruikbare componenten uit sprint 1. Ik heb in deze sprint de kleine achterstand ingehaald. Eigenlijk liep alles na US-06 helemaal op schema, US-09 wist ik van te voren dat hij waarschijnlijk niet helemaal in deze sprint afgemaakt kon worden. Hier voor heb ik een collega gevraagd of hij me voor een deel kon helpen zodat ik in sprint 3 nog maar een klein deel hoef te doen.
 
 ---
 
 ### **Sprint 3: Back-end en contentbeheer**
 ![Scrumboard sprint 3](images/sprint-3.png)
-In sprint 3 is de focus verschoven naar de back-end: er is gewerkt aan het opzetten van het content management systeem (CMS) en de eerste connecties zijn gelegd tussen front-end en back-end. Ook zijn tests uitgevoerd op de laadtijd en performance van de website.
+In sprint 3 is de focus verschoven naar de back-end: er is gewerkt aan het opzetten van het content management systeem (CMS) en de eerste connecties zijn gelegd tussen front-end en back-end. Ook zijn tests uitgevoerd op de laadtijd en performance van de website. Ik ben deze sprint begonnen met het snel afmaken van US-09, dit duurde nog 1 dag. Omdat ik niet zeker wist of ik het allemaal ging halen binnen de afgesproken tijd heb ik US-10 even links laten liggen en afgesproken dat ik die zou doen als er tijd over is aan het einde. Vanaf dit punt kon ik gaan beginnen met het back-end gedeelte voor de website in Laravel Blade, hiervoor moesten we het backend gedeelte installeren op mijn laptop. Dat ging echter niet zo soepel helaas en ben ik met hulp van collega's 2 dagen mee bezig geweest. Hierna kon ik gelukkig wel gelijk aan de slag. Aangezien ik nog nooit met Laravel Blade had gewerkt ging het in het begin minder snel dan ik had verwacht. Ik heb US-11 af kunnen maken, alleen was ik daarna ziek. Ik heb nog wel een begin kunnen maken aan US-12.
 
 ---
 
 ### **Sprint 4: Optimalisatie en afronding**
 ![Scrumboard sprint 4](images/sprint-4.png)
-De laatste sprint stond in het teken van afronding en optimalisatie. Feedbackmomenten zijn verwerkt, laadtijden zijn verbeterd en het beheer van content is vereenvoudigd. Ook is er gezorgd voor een responsive eindresultaat dat op verschillende apparaten getest is.
+De laatste sprint stond in het teken van afronding en optimalisatie. Feedbackmomenten zijn verwerkt en het beheer van content is vereenvoudigd. Ik ben begonnen met US-12 afmaken en dat verliep gelukkig soepel, US-13 en US-14 gingen ook goed en heb ik binnen de geplande tijd af kunnen maken. Daarna heb ik in de laatste week nog US-15 en US-16 af kunnen maken. Ik kwam er achter dat ik nog wel tijd had om US-10 te maken dus die heb ik toen ook gemaakt. Daarna heb ik nog met de disigner gezeten om de laatste kleine puntjes te bespreken die nog moeten gebeuren en die heb ik aangepast.
 
 ---
-
-### **Na afloop – Eindbord**
-![Scrumboard Na afloop](images/eind-scrumboard.png)
-Na de laatste sprint zijn alle taken geverifieerd en afgerond. Het eindbord laat zien dat de belangrijkste user stories succesvol zijn geïmplementeerd. Er is ook ruimte geweest voor het verwerken van feedback en het uitvoeren van tests. Het project is binnen de gestelde tijd afgerond.
